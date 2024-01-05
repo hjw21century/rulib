@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rulib", "rulib.vcproj", "{47B96C93-8594-4243-92A9-161AFD52E2AD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_clock", "..\test_clock\test_clock.vcproj", "{0976CACC-0274-4596-A051-826CE8BA838F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47B96C93-8594-4243-92A9-161AFD52E2AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47B96C93-8594-4243-92A9-161AFD52E2AD}.Debug|Win32.Build.0 = Debug|Win32
+		{47B96C93-8594-4243-92A9-161AFD52E2AD}.Release|Win32.ActiveCfg = Release|Win32
+		{47B96C93-8594-4243-92A9-161AFD52E2AD}.Release|Win32.Build.0 = Release|Win32
+		{0976CACC-0274-4596-A051-826CE8BA838F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0976CACC-0274-4596-A051-826CE8BA838F}.Debug|Win32.Build.0 = Debug|Win32
+		{0976CACC-0274-4596-A051-826CE8BA838F}.Release|Win32.ActiveCfg = Release|Win32
+		{0976CACC-0274-4596-A051-826CE8BA838F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
